@@ -1,2 +1,3 @@
 # finite-logic-poly-optim
-Focus: Runtime Language Optimization (JIT Profiling)
+<b>Focus: Runtime Language Optimization (JIT Profiling)</b>
+
