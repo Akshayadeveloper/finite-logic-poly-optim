@@ -1,0 +1,20 @@
+{
+  "name": "@finite-logic/poly-optim",
+  "version": "1.0.0",
+  "description": "FINITE LOGIC: PolyOptim JIT Simulation and Dynamic Runtime Profiler (Free Tier).",
+  "main": "src/PolyOptimizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshayadeveloper/finite-logic-poly-optim.git"
+  },
+  "keywords": ["finite-logic","performance","optimization","jit","runtime","profiler"],
+  "author": "Akshaya Selvakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayadeveloper/finite-logic-poly-optim/issues"
+  },
+  "homepage": "https://github.com/Akshayadeveloper/finite-logic-poly-optim#readme"
+}
