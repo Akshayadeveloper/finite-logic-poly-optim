@@ -1,6 +1,6 @@
 {
   "name": "@finite-logic/poly-optim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FINITE LOGIC: PolyOptim JIT Simulation and Dynamic Runtime Profiler (Free Tier).",
   "main": "src/PolyOptimizer.js",
   "scripts": {
